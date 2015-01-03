@@ -1,0 +1,46 @@
+#!/usr/bin/env node
+
+var pressEnter = require('../index.js');
+
+var argv = require('minimist')(process.argv.slice(2), { boolean: ['centered'], default: { centered: true }});
+
+var options = {};
+
+if (argv._.length > 0) {
+
+	var style = parseInt(argv._[0], 10);
+
+	if (isNaN(style) || style < 0 || style > 13) {
+		style = 3;
+	}
+
+	options.style = style;
+
+	if (argv._.length > 1) {
+
+		color = argv._[1];
+
+		if (['red', 'yellow', 'green', 'blue', 'cyan', 'magenta', 'grey'].indexOf(color) !== -1) {
+			options.color = color;
+		}
+
+	}
+
+	if (typeof argv.centered !== 'undefined') {
+		options.centered = argv.centered;
+	}
+
+}
+
+if (argv.help || argv.h) {
+
+	console.log('Usage: press-enter [style] [color]');
+	console.log('  style: 0-13');
+	console.log('  color: red, yellow, green, blue, cyan, magenta, grey');
+	process.exit();
+
+}
+
+pressEnter(options, function () {
+	process.exit();
+});

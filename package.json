@@ -1,0 +1,22 @@
+{
+  "name": "press-enter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": "./bin/press-enter",
+  "directories": {
+    "example": "examples"
+  },
+  "dependencies": {
+    "chalk": "^0.5.1",
+    "lodash": "^2.4.1",
+    "minimist": "^1.1.0",
+    "readline2": "^0.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}

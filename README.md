@@ -30,6 +30,8 @@ Here's are the prompts in use in their corresponding software:
 
 # Usage
 
+To use `press-enter`, your terminal must support ANSI colors with bright settings. I use iTerm2 with the Report Terminal Type setting at `xterm-256color` and colors set to the `Dark Background` preset.
+
 ## CLI usage
 
 ```

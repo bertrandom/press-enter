@@ -4,8 +4,6 @@ BBS-style ANSI color enter prompts for Node.js modules or the CLI
 
 ![image](https://raw.githubusercontent.com/bertrandom/press-enter/gh-pages/demo.gif?token=AADhqoKGfu2hLP1aKjK_4HMixSzjJOqHks5UsL_LwA%3D%3D)
 
-![image](https://raw.githubusercontent.com/bertrandom/press-enter/gh-pages/static.gif?token=AADhqulI4FmcPfn4D7vIOYs8_LYpeZq-ks5UtckDwA%3D%3D)
-
 There are 9 animated prompts and 6 static prompts.
 
 The animated prompts were ported from an old PCBoard PPE ([EPE1PWA.ZIP](http://cd.textfiles.com/ppes/E/EPE1PWA.ZIP)) originally released on February 17, 1994, a little over twenty years ago.
@@ -25,6 +23,9 @@ Here's are the prompts in use in their corresponding software:
 ### Static prompt in Iniquity
 
 ![image](https://raw.githubusercontent.com/bertrandom/press-enter/gh-pages/iniquity_enter.png?token=AADhqrwlVRFaE_ni7rzEE5yHTEjt6NO0ks5UtcJNwA%3D%3D)
+
+Static prompts:
+![image](https://raw.githubusercontent.com/bertrandom/press-enter/gh-pages/static.gif?token=AADhqulI4FmcPfn4D7vIOYs8_LYpeZq-ks5UtckDwA%3D%3D)
 
 # Installation
 

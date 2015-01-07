@@ -83,3 +83,7 @@ pressEnter({style: 3, color: red}, function() {
 	process.exit();
 });
 ```
+
+## License
+
+MIT

@@ -1,6 +1,6 @@
 {
   "name": "press-enter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "BBS-style ANSI color enter prompts for Node.js modules or the CLI",
   "main": "index.js",
   "bin": "./bin/press-enter",

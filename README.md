@@ -2,31 +2,31 @@
 
 BBS-style ANSI color enter prompts for Node.js modules or the CLI
 
-![image](https://raw.githubusercontent.com/bertrandom/press-enter/gh-pages/demo.gif?token=AADhqoKGfu2hLP1aKjK_4HMixSzjJOqHks5UsL_LwA%3D%3D)
+![image](https://raw.githubusercontent.com/bertrandom/press-enter/gh-pages/demo.gif)
 
 There are 9 animated prompts and 6 static prompts.
 
 The animated prompts were ported from an old PCBoard PPE ([EPE1PWA.ZIP](http://cd.textfiles.com/ppes/E/EPE1PWA.ZIP)) originally released on February 17, 1994, a little over twenty years ago.
 
-![image](https://raw.githubusercontent.com/bertrandom/press-enter/gh-pages/file_id.diz.png?token=AADhqoCAMsJkccmD3dtVn7DCQh0bIRlXks5Utb_swA%3D%3D)
+![image](https://raw.githubusercontent.com/bertrandom/press-enter/gh-pages/file_id.diz.png)
 
 The static prompts were extracted from the default install of Iniquity BBS software v1.01, released on July 26, 1997.
 
-![image](https://raw.githubusercontent.com/bertrandom/press-enter/gh-pages/iniquity.png?token=AADhqhBw0G3Ph5HArbqN5PvFlUZmqzG2ks5UtcH2wA%3D%3D)
+![image](https://raw.githubusercontent.com/bertrandom/press-enter/gh-pages/iniquity.png)
 
 Here's are the prompts in use in their corresponding software:
 
 ### Animated prompt in PCBoard
 
-![image](https://raw.githubusercontent.com/bertrandom/press-enter/gh-pages/pcboard.gif?token=AADhqjAEFvqOYi_TYGxf5JRBUc4VG8snks5UtcNFwA%3D%3D)
+![image](https://raw.githubusercontent.com/bertrandom/press-enter/gh-pages/pcboard.gif)
 
 ### Static prompt in Iniquity
 
-![image](https://raw.githubusercontent.com/bertrandom/press-enter/gh-pages/iniquity_enter.png?token=AADhqrwlVRFaE_ni7rzEE5yHTEjt6NO0ks5UtcJNwA%3D%3D)
+![image](https://raw.githubusercontent.com/bertrandom/press-enter/gh-pages/iniquity_enter.png)
 
 Static prompts:
 
-![image](https://raw.githubusercontent.com/bertrandom/press-enter/gh-pages/static.gif?token=AADhqulI4FmcPfn4D7vIOYs8_LYpeZq-ks5UtckDwA%3D%3D)
+![image](https://raw.githubusercontent.com/bertrandom/press-enter/gh-pages/static.gif)
 
 # Installation
 

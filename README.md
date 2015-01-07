@@ -25,6 +25,7 @@ Here's are the prompts in use in their corresponding software:
 ![image](https://raw.githubusercontent.com/bertrandom/press-enter/gh-pages/iniquity_enter.png?token=AADhqrwlVRFaE_ni7rzEE5yHTEjt6NO0ks5UtcJNwA%3D%3D)
 
 Static prompts:
+
 ![image](https://raw.githubusercontent.com/bertrandom/press-enter/gh-pages/static.gif?token=AADhqulI4FmcPfn4D7vIOYs8_LYpeZq-ks5UtckDwA%3D%3D)
 
 # Installation
